@@ -30,7 +30,7 @@ src="https://img.shields.io/twitter/follow/HackerVault1?logo=twitter&style=for-t
   <a href="http://www.github.com/hackervault11-spec">
     <img src="https://github-readme-stats.vercel.app/api?username=hackervault11-spec&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true" alt="hackervault11-spec's GitHub stats" />
   </a>
-  <img src="https://i.pinimg.com/originals/38/a4/e8/38a4e8a15154924ffdea25ba9a59378e.gif" width="400px" align="right" />
+  <img src="https://i.pinimg.com/originals/38/a4/e8/38a4e8a15154924ffdea25ba9a59378e.gif" width="350px" align="right" />
 </p>
 
 <a href="http://www.github.com/hackervault11-spec">
