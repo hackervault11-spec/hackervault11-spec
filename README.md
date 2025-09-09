@@ -23,7 +23,6 @@ I’m the CEO of HackerVault.
 src="https://img.shields.io/github/followers/hackervault11-spec?logo=github&style=for-the-badge&color=6366f1&labelColor=22272e" /></a><a href="https://www.x.com/HackerVault1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/HackerVault1?logo=twitter&style=for-the-badge&color=6366f1&labelColor=22272e"
 /></a>
-### Badges
 
 <b>My GitHub Stats</b>
 
@@ -36,10 +35,6 @@ src="https://img.shields.io/twitter/follow/HackerVault1?logo=twitter&style=for-t
 
 <a href="http://www.github.com/hackervault11-spec">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackervault11-spec&stroke=ffffff&background=22272e&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
-<a href="https://github.com/hackervault11-spec">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackervault11-spec&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 
 <!-- Updated Language Stats Chart -->
